@@ -1,0 +1,7 @@
+web:
+  build: .
+  command: ./gradlew bootRun
+  ports:
+    - "7777:7777"
+  volumes:
+     - ~/.gradle:/root/.gradle
