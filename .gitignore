@@ -36,3 +36,11 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+.idea
+.idea/
+.settings/
+.vscode/
+bin/
+out/
+springboot-poc.iml
+
